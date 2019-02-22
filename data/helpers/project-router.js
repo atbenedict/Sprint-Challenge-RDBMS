@@ -90,3 +90,5 @@ router.get("/:id/action", async (req, res) => {
     });
   }
 });
+
+module.exports = router;
